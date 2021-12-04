@@ -1,3 +1,7 @@
+/*
+Jawad Khoja
+Assignment 2
+*/
 import java.util.Vector;
 
 public class Department {
