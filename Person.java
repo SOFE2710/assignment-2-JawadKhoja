@@ -1,3 +1,7 @@
+/*
+Jawad Khoja
+Assignment 2
+*/
 public class Person
 {
     protected String name;
